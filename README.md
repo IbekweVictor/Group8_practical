@@ -36,7 +36,7 @@ This project communicates with ZAP through its REST API using Python.
 ---
 
 ## 🏗️ Project Structure
-```markdown
+
 # 🛡️ OWASP ZAP Scan – Flask Integration
 
 A Flask-based web application that integrates with **OWASP ZAP (Zed Attack Proxy)** to perform automated vulnerability scans on web applications.
@@ -76,8 +76,6 @@ This project communicates with ZAP through its REST API using Python.
 
 ## 🏗️ Project Structure
 
-```
-
 OwaspZap-Scan-/
 │
 ├── app.py                # Main Flask application (ZAP integration logic)
@@ -89,10 +87,6 @@ OwaspZap-Scan-/
 ├── static/               # CSS / frontend assets
 ├── OWASP_SCAN/           # Scan-related output directory
 └── README.md
-
-````
-
----
 
 ## ⚙️ How the Application Works
 
@@ -130,7 +124,6 @@ Once scanning is complete:
 ```bash
 git clone https://github.com/IbekweVictor/OwaspZap-Scan-
 cd OwaspZap-Scan-
-````
 
 ---
 
@@ -249,4 +242,5 @@ Unauthorized scanning of systems may be illegal.
 
 Victor Ibekwe
 GitHub: [https://github.com/IbekweVictor]
+
 
